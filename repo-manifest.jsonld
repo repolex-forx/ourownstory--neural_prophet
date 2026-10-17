@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ourownstory/neural_prophet/commit/2ac7d0f555d214fd63437b32141efb426548d400",
       "git:hexsha": "2ac7d0f555d214fd63437b32141efb426548d400",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T18:42:14.323393+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ourownstory/neural_prophet/commit/72681c7d532353f6f5b70c74553ac6dd6d522455",
